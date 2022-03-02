@@ -1,0 +1,11 @@
+body {
+    background: url(../images/bg-image.jpg) no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+#error {
+    color: rgb(232, 250, 245);
+    text-align: center;
+    display: none;
+}
